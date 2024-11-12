@@ -2,18 +2,17 @@
 <h3 align="center">A Computer Science student at the University of Michigan</h3>
 
 ## 💬 Ask me about
-- Backend web development (Python, TypeScript, PHP)
-- Frontend web development (Vue.js, React.js)
-- Docker
+- Backend web development
+- Frontend web development
+- C++
 - Deep Learning and Machine Learning
-- Cloud Architecture
 - Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
-- Side projects (Lazy Link ft. @dmfigueroa)
+- Celtics (Boston sports fan 🏀)
+- Side projects
 
 ## 📅 Hobbies
-- Play sports (basketball, football)
 - Solve coding problems
+- Play sports (basketball, football)
 - Listen to podcasts
 - etc...
 
