@@ -8,11 +8,6 @@
 - **Discuno** (Launching Soon)  
   A mentorship platform connecting students with college mentors worldwide, aimed at personalized guidance for college success and beyond.
 
----
-
-## 🎯 About Me
-
-I’m passionate about building impactful software that empowers students and professionals to achieve their goals. Currently focused on full-stack development, product design, and scaling platforms with a strong foundation in computer science.
 
 ---
 
@@ -23,4 +18,4 @@ I’m passionate about building impactful software that empowers students and pr
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories, open issues, or connect to collaborate.
+Thanks for visiting my profile! Feel free to explore my repositories, open issues, or connect to collaborate.
