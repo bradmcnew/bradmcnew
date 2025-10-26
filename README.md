@@ -1,5 +1,5 @@
 <h1 align="center">Brad McNew</h1>
-<h3 align="center">CEO & Founder of Discuno | Computer Science Student at the University of Michigan</h3>
+<h3 align="center">Founder @ Discuno & AskMyMoney | Computer Science Student at the University of Michigan</h3>
 
 ---
 
