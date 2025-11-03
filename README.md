@@ -5,7 +5,7 @@
 
 ## 💻 Current Projects
 
-- **Discuno** (Launching Soon)  
+- **Discuno** (In beta)  
   A mentorship platform connecting students with college mentors worldwide, aimed at personalized guidance for college success and beyond.
 
 
