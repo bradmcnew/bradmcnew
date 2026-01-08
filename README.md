@@ -1,33 +1,38 @@
-<h1 align="center">Brad McNew</h1>
-<h3 align="center">Founder @ Discuno &amp; AskMyMoney · Computer Science Student @ University of Michigan</h3>
+<h1 align="center">Bradford McNew</h1>
+<h3 align="center">Founder @ Axite.ai · Founder @ Discuno · CS @ University of Michigan</h3>
 
 ---
 
 ## 👋 About Me
-- Product-focused founder building tools that empower students to make confident academic and financial decisions.
-- Experienced in leading multidisciplinary teams, shipping full-stack web applications, and scaling community-driven initiatives.
-- Passionate about mentorship, financial literacy, and creating accessible technology.
+- CS founder shipping **MCP-based AI tools** that let LLMs safely take actions via real APIs.
+- I build end-to-end: product → full-stack → integrations → deploy → iterate with users.
+- Interested in **AI integrations**, marketplaces, and product systems that compound.
 
-## 💻 Current Projects
-- **Discuno** (beta): A mentorship platform connecting students with college mentors worldwide for personalized guidance on admissions, academics, and career readiness.
-- **AskMyMoney**: A personal finance education resource designed to simplify investing, credit, and budgeting for young adults.
+## 🚀 What I’m Building
+- **Axite.ai**: Secure **MCP-based connectors** that let businesses use internal tools/data inside LLM workflows.
+  - Focus: auth/permissions, audit logs, safe tool execution, reliability.
 
-## 🛠️ Tools &amp; Technologies
-- Languages: Python, JavaScript/TypeScript, Java, C++
-- Frameworks: React, Next.js, Node.js, Django, Flask
-- Platforms &amp; Services: Firebase, Supabase, AWS, Vercel
-- Other: PostgreSQL, REST APIs, Tailwind CSS, Git/GitHub
+## 🧠 Also Shipped
+- **Discuno**: Mentorship marketplace connecting college students with high school students for guidance + admissions support.
+  - Built marketplace + bookings + **Stripe Connect**
+  - Currently: **15 mentors onboarded**; iterating from interviews + usage
 
-## 📈 Highlights
-- Built Discuno from concept to beta launch, onboarding mentors from 20+ universities and hundreds of students globally.
-- Led technical architecture and product roadmap for AskMyMoney, delivering actionable content and interactive tools for improving financial literacy.
-- Organized mentorship initiatives, workshops, and community events to support students navigating college admissions and career planning.
+## 🛠️ Focused Stack
+- **AI/Agents:** MCP tool servers, tool calling, tool/schema design, guardrails & auditability  
+- **Web:** Next.js, React, Node.js, TypeScript  
+- **Data/Payments:** PostgreSQL, SQL, Stripe  
+- **Deploy:** Vercel (plus whatever is fastest to ship)
 
-## 📫 Connect with Me
-- LinkedIn: [linkedin.com/in/bradmcnew](https://linkedin.com/in/bradmcnew)
-- Email: [brad@discuno.com](mailto:brad@discuno.com)
-- Personal Site: [bradmcnew.com](https://bradmcnew.com)
+## 📌 Highlights
+- Built and shipped multiple 0→1 products with real users and feedback loops.
+- Implemented MCP tool servers for API-backed action-taking (multi-tenant patterns, guardrails).
+- Ran 25+ user interviews to drive product iteration (Discuno).
+
+## 📫 Connect
+- LinkedIn: https://linkedin.com/in/bradmcnew
+- Email: mcnew@umich.edu
+- Sites: https://axite.ai · https://discuno.com
 
 ---
 
-Thanks for visiting! Feel free to explore my repositories, open issues, or reach out to collaborate on mission-driven projects.
+If you’re building with MCP / tool servers or need help turning an API into safe LLM actions, reach out.
