@@ -1,38 +1,18 @@
-<h1 align="center">Bradford McNew</h1>
-<h3 align="center">Founder @ Axite.ai · Founder @ Discuno · CS @ University of Michigan</h3>
+# Bradford McNew — Founder @ Axite
 
----
+Building Axite: a secure MCP gateway that lets AI agents use your company apps with policy + auditability.
 
-## 👋 About Me
-- CS founder shipping **MCP-based AI tools** that let LLMs safely take actions via real APIs.
-- I build end-to-end: product → full-stack → integrations → deploy → iterate with users.
-- Interested in **AI integrations**, marketplaces, and product systems that compound.
+## Proof (public)
+- Merged PRs to IBM/mcp-context-forge (MCP Gateway & Registry)
+  - [PR #2153] Browser compatibility: enable CORS preflight for `/servers/{id}/mcp` endpoints. https://github.com/IBM/mcp-context-forge/pull/2153
+  - [PR #2151] Enterprise auth: add RFC 8707 `resource` parameter support for JWT access tokens. https://github.com/IBM/mcp-context-forge/pull/2151
 
-## 🚀 What I’m Building
-- **Axite.ai**: Secure **MCP-based connectors** that let businesses use internal tools/data inside LLM workflows.
-  - Focus: auth/permissions, audit logs, safe tool execution, reliability.
+## What Axite does
+- For: Platform/AI infra teams shipping agent workflows.
+- Problem: Tool access for agents is brittle (auth, permissions, auditing, transport differences).
+- Solution: MCP-first gateway + controls to connect agents to internal systems safely.
+- Status: Demo-ready; looking for design partners.
 
-## 🧠 Also Shipped
-- **Discuno**: Mentorship marketplace connecting college students with high school students for guidance + admissions support.
-  - Built marketplace + bookings + **Stripe Connect**
-  - Currently: **15 mentors onboarded**; iterating from interviews + usage
-
-## 🛠️ Focused Stack
-- **AI/Agents:** MCP tool servers, tool calling, tool/schema design, guardrails & auditability  
-- **Web:** Next.js, React, Node.js, TypeScript  
-- **Data/Payments:** PostgreSQL, SQL, Stripe  
-- **Deploy:** Vercel (plus whatever is fastest to ship)
-
-## 📌 Highlights
-- Built and shipped multiple 0→1 products with real users and feedback loops.
-- Implemented MCP tool servers for API-backed action-taking (multi-tenant patterns, guardrails).
-- Ran 25+ user interviews to drive product iteration (Discuno).
-
-## 📫 Connect
-- LinkedIn: https://linkedin.com/in/bradmcnew
-- Email: mcnew@umich.edu
-- Sites: https://axite.ai · https://discuno.com
-
----
-
-If you’re building with MCP / tool servers or need help turning an API into safe LLM actions, reach out.
+## Links
+- Website: https://axite.ai
+- Contact: mailto:brad@axite.ai
