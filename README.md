@@ -18,7 +18,8 @@
 
 ## Current Projects
 
-- 🛡️ **[Axite](https://axite.ai)** - Change control for agent actions in production: policy engine, Slack approvals, tamper-evident audit trails
+- 🛡️ **[Axite](https://axite.ai)** ([@axite-ai](https://github.com/axite-ai)) - Change control for agent actions in production: policy engine, Slack approvals, tamper-evident audit trails
+- 🧭 **[AgentBase](https://github.com/bradmcnew/agentbase)** - Chatbase for agents: make your SaaS discoverable and usable by AI agents in minutes (open source, MIT)
 - 💰 **[AskMyMoney](https://github.com/axite-ai/askmymoney-mcp)** - Full-stack MCP app for managing bank accounts via ChatGPT
 - 🎓 **[Discuno](https://github.com/discuno/discuno)** - Open source mentorship platform connecting high school students and college mentors
 
